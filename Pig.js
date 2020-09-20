@@ -1,3 +1,3 @@
 function Pig(){
-	console.log('hehe');
+	console.log('123');
 }
